@@ -72,6 +72,8 @@ After you give the object his time, you can calculate with them:
 
 </pre>
 
+<pre>
+
 // You have to know:
 // the function compute with the object and they give the instance as return value. 
 

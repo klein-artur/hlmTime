@@ -33,7 +33,7 @@ testTime5 = [[hlmTime alloc] initWithHours:2 minutes:56 seconds:20 milliseconds:
 
 </pre>
 
-Once you have initalized your object, you have the following getter and setter:
+Once you have initalized your object, you have the following getter:
 
 <pre>
 

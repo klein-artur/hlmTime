@@ -75,7 +75,7 @@ After you give the object its time, you can calculate with them:
 <pre>
 
 // You have to know:
-// the function compute with the object and they give the instance as return value. 
+// the functions compute the values of the actual object and they give the instance as return value, too. 
 
 // add and subtract a value as milliseconds to the time object. 
 -(id)addValue:(NSInteger)value;

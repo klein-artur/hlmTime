@@ -91,8 +91,8 @@ After you give the object its time, you can calculate with them:
 </pre>
 
 
-And finaly, after all the subjects you have done with your time object, you can compare your time with
-Other times:
+And finaly, after all the mess you have done with your time object, you can compare your time with
+other times :) :
 
 <pre>
 

@@ -1,7 +1,7 @@
 # hlmTime
 
 ## About
-With this class you can create time objects. Calculate with them and compare them. It makes the handling with
+With this class you can create time objects, calculate with them and compare them. It makes the handling with
 time values very very easy.
 
 

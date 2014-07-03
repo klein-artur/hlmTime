@@ -68,7 +68,7 @@ Once you have initalized your object, you have the following getter:
 </pre>
 
 
-After you give the object his time, you can calculate with them:
+After you give the object its time, you can calculate with them:
 
 </pre>
 
